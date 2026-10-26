@@ -1,0 +1,7 @@
+# release artifacts
+*.zip
+
+# build/editor cruft
+bin/
+obj/
+.vs/

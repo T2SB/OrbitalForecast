@@ -1,0 +1,9 @@
+{
+	"NAME": "Orbital Forecast",
+	"URL": "https://raw.githubusercontent.com/T2SB/OrbitalForecast/master/GameData/OrbitalForecast/OrbitalForecast.version",
+	"DOWNLOAD": "https://github.com/T2SB/OrbitalForecast/releases",
+	"VERSION": { "MAJOR": 0, "MINOR": 9, "PATCH": 0, "BUILD": 0 },
+	"KSP_VERSION": { "MAJOR": 1, "MINOR": 12, "PATCH": 5 },
+	"KSP_VERSION_MIN": { "MAJOR": 1, "MINOR": 12, "PATCH": 0 },
+	"KSP_VERSION_MAX": { "MAJOR": 1, "MINOR": 12, "PATCH": 5 }
+}
